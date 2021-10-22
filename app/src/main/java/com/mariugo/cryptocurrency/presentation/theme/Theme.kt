@@ -1,6 +1,5 @@
-package com.mariugo.cryptocurrency.ui.theme
+package com.mariugo.cryptocurrency.presentation.theme
 
-import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
 import androidx.compose.material.lightColors

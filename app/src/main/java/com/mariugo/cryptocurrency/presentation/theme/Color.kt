@@ -1,4 +1,4 @@
-package com.mariugo.cryptocurrency.ui.theme
+package com.mariugo.cryptocurrency.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
