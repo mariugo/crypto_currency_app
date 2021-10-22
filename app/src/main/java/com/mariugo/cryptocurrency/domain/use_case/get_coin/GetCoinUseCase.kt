@@ -1,9 +1,7 @@
-package com.mariugo.cryptocurrency.domain.use_case.get_coins
+package com.mariugo.cryptocurrency.domain.use_case.get_coin
 
 import com.mariugo.cryptocurrency.common.Resource
-import com.mariugo.cryptocurrency.data.remote.dto.toCoin
 import com.mariugo.cryptocurrency.data.remote.dto.toCoinDetail
-import com.mariugo.cryptocurrency.domain.model.Coin
 import com.mariugo.cryptocurrency.domain.model.CoinDetail
 import com.mariugo.cryptocurrency.domain.repository.CoinRepository
 import kotlinx.coroutines.flow.Flow
